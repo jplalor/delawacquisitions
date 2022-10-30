@@ -2,4 +2,4 @@
 
 ## Webpage coming soon!
 
-![](dla.jpg)
+![](dla2.jpg)
