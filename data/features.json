@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Buying",
+    "description": "We buy houses.",
+    "image": "images/features/noun_branding_1885335.svg"
+  },
+  {
+    "title": "Renting",
+    "description": "Rent one of our properties.",
+    "image": "images/features/noun_The Process_1885341.svg"
+  },
+  {
+    "title": "Property Management",
+    "description": "We'll manage your property.",
+    "image": "images/features/noun_3d modeling_1885342.svg"
+  }
+]
